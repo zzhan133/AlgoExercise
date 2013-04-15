@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1365982792 source:c:\users\zhe\documents\github\algoexercise\findsubstr\main.cpp
+	<iostream>
+	"include/Firstclass.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"gettimewin.h"
+	<windows.h>
+	<sys/time.h>
+
+1365978643 c:\users\zhe\documents\github\algoexercise\findsubstr\include\firstclass.h
+
+1365978868 source:c:\users\zhe\documents\github\algoexercise\findsubstr\src\firstclass.cpp
+	"../include/Firstclass.h"
+
+1365982821 c:\users\zhe\documents\github\algoexercise\findsubstr\gettimewin.h
+	<time.h>
+	<windows.h>
+	<sys/time.h>
+
